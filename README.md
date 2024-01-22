@@ -53,4 +53,4 @@ I am a dedicated developer with experience in Communication & Collaboration prod
 
 - Email: mounika.billakanti@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mounika-billakanti
-- GitHub: https://github.com/mbillakanti
+- GitHub: https://github.com/mbillakanti/mounika.portfolio
